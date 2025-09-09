@@ -11,16 +11,23 @@ Employee attrition is one of the key challenges organizations face today. This d
 Overall Metrics
 
 -Count of employees
+
 -Attrition count & rate
+
 -Average age, salary, and tenure
 
 Attrition Analysis
 
 -By Education (Life Sciences, Medical, Marketing, Technical, etc.)
+
 -By Age Groups
+
 -By Salary Ranges
+
 -By Years at Company
+
 -By Job Role and Department
+
 -By Gender
 
 Interactive Filters to slice and dice data department-wise
